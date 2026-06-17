@@ -1,0 +1,9 @@
+# --- WordPress core ---
+# On ignore les fichiers core de WordPress 
+wp-content/languages/
+wp-content/upgrade/
+wp-content/uploads/
+
+# Thèmes : on ignore tout sauf le thème custom
+wp-content/themes/*
+!wp-content/themes/salarium/
