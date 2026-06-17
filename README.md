@@ -4,7 +4,7 @@ Calculateur de conversion salaire brut/net, développé sous forme de thème Wor
 
 ## 📋 Présentation du projet
 
-Test pour implémenter une page web avec calculateur de salaire brut en net et inversement en fonction du type de statut, mensuel ou annuel (il me manquera des fonctions je m'en rends compte en écrivant ces lignes).
+Test pour implémenter une page web avec calculateur de salaire brut en net et inversement en fonction du type de statut, mensuel ou annuel.
 
 ## 🛠️ Stack technique
 
